@@ -22,10 +22,11 @@ https://www.amazon.com.au/Architecture-Blockchain-Applications-Xiwei-Xu/dp/30300
 Google Scholar:
 https://scholar.google.com.au/citations?user=x9IUq78AAAAJ&hl=en](https://scholar.google.com.au/citations?user=x9IUq78AAAAJ&hl=en
 
-## Other Core Tech Team
-
+## Other Core Tech Team Member
 [koalaylj](https://github.com/koalaylj)
+
 [stoneomo](https://github.com/stoneomo)
+
 [LiqunHu](https://github.com/LiqunHu)
 
 **Want to be a contributor to the development of zkPass protocol? Please join [zkPass Discord](https://discord.gg/zkpass) and DM the team.**
