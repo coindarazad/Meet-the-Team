@@ -29,4 +29,8 @@ https://scholar.google.com.au/citations?user=x9IUq78AAAAJ&hl=en](https://scholar
 
 [LiqunHu](https://github.com/LiqunHu)
 
+[PureBlack](https://github.com/PureBlack)
+
+[Valency](https://github.com/Valency)
+
 **Want to be a contributor to the development of zkPass protocol? Please join [zkPass Discord](https://discord.gg/zkpass) and DM the team.**
